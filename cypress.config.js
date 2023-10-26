@@ -12,4 +12,3 @@ module.exports = defineConfig({
     defaultCommandTimeout: 10000
   },
 })
-c504e0ad-3565-40ce-99da-23aa7946f4a7
